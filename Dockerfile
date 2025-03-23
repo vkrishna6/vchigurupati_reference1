@@ -1,4 +1,4 @@
-FROM redhat/ubi8
+FROM image
 LABEL description='Practice test - docker instructions and sample application'
 #MAINTAINER vamsikrishna_chigurupati
 USER root
