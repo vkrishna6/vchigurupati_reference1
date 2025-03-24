@@ -10,7 +10,7 @@
 
 ## Commands used to create image, run container, execute/start a session in running container, tag an image, push image to docker repository. 
 
-docker build -t imagename:version
+a. docker build -t imagename:version
 docker run --name containername imagename:version
 docker exec -it containerID sh
 docker image tag LocalImgaeName:version dockerusername/repositoryname:tag
