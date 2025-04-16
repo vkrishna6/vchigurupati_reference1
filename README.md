@@ -31,13 +31,13 @@ This repository provides a custom Docker image built on **Red Hat UBI 9** with *
 ```bash
 docker build -t vchigurupati_vkrishna6ubi9_jmeter_v5_6:latest .
 
-- Run the Container
+# Run the Container
 docker run --name jmeter_container vchigurupati_vkrishna6ubi9_jmeter_v5_6:latest
 
-- Access the Container Shell
+# Access the Container Shell
 docker exec -it jmeter_container sh
 
-- Push to Docker Hub
+# Push to Docker Hub
 Tag the Image:
 
 bash
@@ -51,7 +51,7 @@ Copy
 Edit
 docker push vchigurupati/vchigurupati_vkrishna6ubi9_jmeter_v5_6:latest
 
-- Useful Docker Commands
+# Useful Docker Commands
 Command	Description
 docker ps	List running containers
 docker images	List local images
