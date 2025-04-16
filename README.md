@@ -19,8 +19,8 @@ This repository provides a custom Docker image built on **Red Hat UBI 9** with *
 
 ## 🗂️ Project Structure
 
-Dockerfile # Dockerfile with JMeter install and setup
-README.md # Documentation
+- Dockerfile # Dockerfile with JMeter install and setup
+- README.md # Documentation
 
 ---
 
