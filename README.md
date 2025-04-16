@@ -1,6 +1,6 @@
 # 📦 vchigurupati_reference: JMeter Docker Image
 
-This repository provides a custom Docker image built on **Red Hat UBI 9** with **Apache JMeter 5.6** pre-installed. It's designed for learning and reference purposes, showcasing key Dockerfile instructions and image lifecycle commands.
+This repository provides a custom Docker image built on **Red Hat UBI 9** with **Apache JMeter 5.6** application pre-installed. I created this for learning and reference purposes, showcasing key Dockerfile instructions and image lifecycle commands.
 
 ---
 
